@@ -1,7 +1,11 @@
 {
     "name": "arcadian2",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "storyboard": "*",
+        "controller": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "animation": "*"
     },
     "description": "",
     "files": [
